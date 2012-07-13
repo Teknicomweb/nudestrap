@@ -45,7 +45,7 @@
 			</div>
 			
 			
-			<!-- Navigation Menu -->
+			<!-- Top Navigation Menu -->
 			<div id="top-navigation">
 				<?php
 				$menu_args = array(
@@ -58,7 +58,7 @@
 				?>
 			</div>	
 			
-			<!-- Navigation Menu -->
+			<!-- Main Navigation Menu -->
 			<div id="main-navigation">
 				<?php
 				$menu_args = array(
