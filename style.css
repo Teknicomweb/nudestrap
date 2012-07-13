@@ -113,7 +113,6 @@ header#site-header{
 	left: 0;
 	width: 100%;
 	display: block;
-	font-weight: bold;
 }
 
 
@@ -128,6 +127,14 @@ header#site-header{
 
 #main-navigation .memu{
 	float: right;
+}
+
+#main-navigation .memu a{
+	font-size: 14px;
+}
+
+#top-navigation .memu a{
+	font-weight: normal;
 }
 
 .memu {

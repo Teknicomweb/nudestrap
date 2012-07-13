@@ -31,7 +31,7 @@ Template Name: Blog
 				
 				<div class="blog-entry border-box">
 					<a href="<?php the_permalink(); ?>"><h3><?php the_title(); ?></h3></a>
-					<?php i// nclude (TEMPLATEPATH . '/inc/meta.php' ); ?>
+					<?php // include (TEMPLATEPATH . '/inc/meta.php' ); ?>
 					<?php the_excerpt(); ?>
 					
 				</div>
