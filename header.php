@@ -2,7 +2,8 @@
 
 <html <?php language_attributes(); ?>>
 
-<!-- Hyoersound Wordpress Theme.  Carefully crafted by Craig Gwamba at Teknicom Web. http://teknicom.net/ -->
+<!-- Nudestrap - Bare Wordpress Theme built using Twitter bootstrap. -->
+<!-- Copyright (C) 2012 Teknicom Web -->
 
 
 <head profile="http://gmpg.org/xfn/11">
